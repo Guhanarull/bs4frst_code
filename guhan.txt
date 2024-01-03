@@ -1,0 +1,14 @@
+2023-12-29 16:36:05,822 - INFO: Script initiated on 2023-12-29 16:36:05 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:36:06,328 - WARNING: Element not found for identifier: hello bro
+2023-12-29 16:36:26,296 - INFO: Script initiated on 2023-12-29 16:36:26 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:36:26,631 - WARNING: Element not found for identifier: hello bro
+2023-12-29 16:36:36,645 - INFO: Script initiated on 2023-12-29 16:36:36 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:36:36,974 - WARNING: Element not found for identifier: hello bro
+2023-12-29 16:36:49,681 - INFO: Script initiated on 2023-12-29 16:36:49 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:36:49,992 - INFO: Scraped Data: What is Amazon VPC?
+2023-12-29 16:38:08,149 - INFO: Script initiated on 2023-12-29 16:38:08 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:38:09,116 - WARNING: Element not found for identifier: With Amazon Virtual Private Cloud (Amazon VPC)
+2023-12-29 16:38:16,949 - INFO: Script initiated on 2023-12-29 16:38:16 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:38:17,267 - WARNING: Element not found for identifier: With Amazon Virtual Private Cloud (Amazon VPC)
+2023-12-29 16:38:23,544 - INFO: Script initiated on 2023-12-29 16:38:23 for URL: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+2023-12-29 16:38:24,337 - INFO: Scraped Data: What is Amazon VPC?
